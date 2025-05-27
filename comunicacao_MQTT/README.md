@@ -1,8 +1,9 @@
 # 📄 PROJETO: PUBLICADOR MQTT COM SEGURANÇA BÁSICA - BITDOGLAB (PICO W)
 
-Autores: FELIPE LEME CORREA DA SILVA
-         VITOR GOMES SOUZA
-Instituição: EmbarcaTech - HBr - Campinas
+Autores: 
+- FELIPE LEME CORREA DA SILVA
+- VITOR GOMES SOUZA
+- Instituição: EmbarcaTech - HBr - Campinas
 
 # 📦 SOBRE O PROJETO
 
