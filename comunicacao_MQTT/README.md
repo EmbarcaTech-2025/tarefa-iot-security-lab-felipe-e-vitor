@@ -2,7 +2,8 @@
 
 Autores: 
 - FELIPE LEME CORREA DA SILVA
-- VITOR GOMES SOUZA -
+- VITOR GOMES SOUZA 
+
 Instituição: EmbarcaTech - HBr - Campinas
 
 # 📦 SOBRE O PROJETO
