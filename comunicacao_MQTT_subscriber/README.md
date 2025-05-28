@@ -18,9 +18,8 @@ Este projeto implementa um Subscriber MQTT no BitDogLab (Raspberry Pi Pico W), q
 # 🗂️ Estrutura do Projeto
 
 ```
-/publisher
-│── docs                 # Documentação técnica complementar
-│── inc                  # Bibliotecas específicas (mqtt_comm, lwipopts, etc.)
+/subscriber_MQTT
+│── include              # Bibliotecas específicas (mqtt_comm, lwipopts, etc.)
 │── src                  # Biblioteca específica .c
 │── subscriber_MQTT.c    # Código fonte principal
 │── CMakeLists.txt       # Configuração de compilação
